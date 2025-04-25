@@ -46,16 +46,7 @@ class OepnLedger:
         {Fore.GREEN + Style.BRIGHT}Auto Ping {Fore.BLUE + Style.BRIGHT}OpenLedger - BOT
             """
             f"""
-        {Fore.GREEN + Style.BRIGHT}Rey? {Fore.YELLOW + Style.BRIGHT}
-  _______    _                  _______               
- |__   __|  | |                |__   __|              
-    | |_   _| | ____ _ _ __   __ _| |_   _ _ __ _   _ 
-    | | | | | |/ / _` | '_ \ / _` | | | | | '__| | | |
-    | | |_| |   < (_| | | | | (_| | | |_| | |  | |_| |
-    |_|\__,_|_|\_\__,_|_| |_|\__, |_|\__,_|_|   \__,_|
-                              __/ |                   
-                             |___/                    
-
+        {Fore.GREEN + Style.BRIGHT}Rey? {Fore.YELLOW + Style.BRIGHT}<by. TukangTuru>
             """
         )
 
